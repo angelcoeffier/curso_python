@@ -13,6 +13,7 @@ En este curso buscamos incrementar nuestros conocimientos con uno de los lenguaj
 Buscamos crear herramientas potentes que nos permitan automatizar tareas, hacer consultas con API's, desarrollar "Machine Learning", estudiar el "Big Data", entre otras cosas mas...
 ## Authors
 
-- [@angelcoeffier](https://github.com/angelcoeffier/)
+- [@angelcoeffier](https://github.com/angelcoeffier/) 
+- [@dcaballero91](https://github.com/dcaballero91/)
 
 ![Logo](https://www.unida.edu.py/v4/wp-content/uploads/2024/01/UNIDA-LOGO-1.png)
